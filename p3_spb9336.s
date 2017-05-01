@@ -4,7 +4,7 @@
 *
 * Simple example of recursion and stack management
 *
-* @author Christopher D. McMurrough
+* @author Saurya Bhattarai
 ******************************************************************************/
  
 .global main
@@ -101,6 +101,5 @@ _exit:
 .data
 
 format_str:     .asciz      "%d"
-format_str1:     .asciz      "%d"
 printf_str:     .asciz      "There are %d partitions of %d using integers up to %d"
 exit_str:       .ascii      "Terminating program.\n"
