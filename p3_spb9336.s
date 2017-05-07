@@ -4,7 +4,7 @@
 *
 * Simple example of recursion and stack management
 *
-* @author Christopher D. McMurrough
+* @author Saurya Bhattarai
 ******************************************************************************/
  
 .global main
